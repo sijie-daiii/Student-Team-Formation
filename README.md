@@ -45,7 +45,7 @@ Student Team Formation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/student-team-formation.git
+git clone https://github.com/sijie-daiii/student-team-formation.git
 cd student-team-formation
 ```
 
@@ -130,10 +130,3 @@ The results will be saved in `output.csv`.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### How to Use the Template
-
-1. **Replace placeholders** like `yourusername` with your actual GitHub username.
-2. **Add or remove sections** based on the specifics of your project. For example, if there are additional setup steps or dependencies, you should include those.
-3. **Update the input/output format sections** based on the actual structure of your input and output CSV files.
-4. **Commit and push** the `README.md` to your GitHub repository.
