@@ -3,6 +3,7 @@
 ## Overview
 
 This project is designed to automate the process of forming student project teams based on various skill levels and preferences. It reads student data from a CSV file, creates balanced teams, computes skill scores for each team, and saves the results to an output CSV file.
+![1](https://github.com/user-attachments/assets/094f6ac3-a435-43c5-8fb7-19d18d16867b)
 
 ## Features
 
